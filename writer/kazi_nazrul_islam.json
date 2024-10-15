@@ -1,0 +1,128 @@
+{
+    "bookType": "কাজী নজরুল ইসলাম",
+    "audiobooks": [
+        {
+            "id": 1,
+            "bookName": "বিষের বাশি",
+            "bookImage": "https://i.postimg.cc/8zgJt7jC/bisher-bashi.jpg",
+            "bookCreatorName": "কাজী নজরুল ইসলাম",
+            "bookNameEn": "Bisher Bashi",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "বিষের বাশি",
+                    "audio_url": "https://www.youtube.com/watch?v=LiD0NNSSjgE",
+                    "voice_owner": "mirchideep6190"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "bookName": "বাঁধন হারা",
+            "bookImage": "https://i.postimg.cc/yxSh32rp/Bandhan-Hara.jpg",
+            "bookCreatorName": "কাজী নজরুল ইসলাম",
+            "bookNameEn": "Bandhan Hara",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "বাঁধন হারা 1",
+                    "audio_url": "https://www.youtube.com/watch?v=yZJRSWocxzo&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 2,
+                    "bookName": "বাঁধন হারা 2",
+                    "audio_url": "https://www.youtube.com/watch?v=aQ9jQqG12XQ&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur&index=2",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 3,
+                    "bookName": "বাঁধন হারা 3",
+                    "audio_url": "https://www.youtube.com/watch?v=jP4wTyjZzaQ&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur&index=3",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 4,
+                    "bookName": "বাঁধন হারা 4",
+                    "audio_url": "https://www.youtube.com/watch?v=vprPm0jGOM4&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur&index=4",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 5,
+                    "bookName": "বাঁধন হারা 5",
+                    "audio_url": "https://www.youtube.com/watch?v=0EGNMX3boSo&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur&index=5",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 6,
+                    "bookName": "বাঁধন হারা 6",
+                    "audio_url": "https://www.youtube.com/watch?v=qqEGA0GzcOs&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur&index=6",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 7,
+                    "bookName": "বাঁধন হারা 7",
+                    "audio_url": "https://www.youtube.com/watch?v=2McoQQwVtxQ&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur&index=7",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 8,
+                    "bookName": "বাঁধন হারা 8",
+                    "audio_url": "https://www.youtube.com/watch?v=J2Dfo_UU6rg&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur&index=8",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 9,
+                    "bookName": "বাঁধন হারা 9",
+                    "audio_url": "https://www.youtube.com/watch?v=ym1P7fUuamY&list=PLCVmFeuX5mWKCI6G7JS_MmSFGrCpc8mur&index=9",
+                    "voice_owner": "Golposrot"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "bookName": "মৃত্যুক্ষুধা",
+            "bookImage": "https://i.postimg.cc/d3qBp5W5/Mrityukshuda.jpg",
+            "bookCreatorName": "কাজী নজরুল ইসলাম",
+            "bookNameEn": "Mrityukshuda",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "মৃত্যুক্ষুধা ১",
+                    "audio_url": "https://www.youtube.com/watch?v=zlsygENmVhc&list=PLCVmFeuX5mWIGNIQdW7WVNrtCTPnxTG_9",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 2,
+                    "bookName": "মৃত্যুক্ষুধা ২",
+                    "audio_url": "https://youtu.be/Vw1jzqWhV8o?si=ikQr8XqTWNZCgyu_",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 3,
+                    "bookName": "মৃত্যুক্ষুধা ৩",
+                    "audio_url": "https://youtu.be/lnUwTkFucE4?si=DF9p-ASStRAIvapC",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 4,
+                    "bookName": "মৃত্যুক্ষুধা ৪",
+                    "audio_url": "https://youtu.be/xbzWSkyztiM?si=B6jBqz1w5aGWsggb",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 5,
+                    "bookName": "মৃত্যুক্ষুধা ৫",
+                    "audio_url": "https://youtu.be/3zTNtECbfds?si=WJ6LQiBKU3DjvGiu",
+                    "voice_owner": "Golposrot"
+                },
+                {
+                    "episode_id": 6,
+                    "bookName": "মৃত্যুক্ষুধা ৬",
+                    "audio_url": "https://youtu.be/TqhB0gxDa-8?si=oHbVWAMPbmpXZDym",
+                    "voice_owner": "Golposrot"
+                }
+            ]
+        }
+    ]
+}

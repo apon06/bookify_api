@@ -1,0 +1,40 @@
+{
+    "Category": [
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/rabindranath_thakur.json",
+            "color": "#fed8e5",
+            "bookType": "রবীন্দ্রনাথ ঠাকুর",
+            "saveKey": "রবীন্দ্রনাথ"
+        },
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/sarat_chandra_chattopadhyay.json",
+            "color": "#e1d8f3",
+            "bookType": "শরৎচন্দ্র চট্টোপাধ্যায়",
+            "saveKey": "শরৎচন্দ্র"
+        },
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/humayun_ahmed.json",
+            "color": "#fff3cb",
+            "bookType": "হুমায়ুন আহমেদ",
+            "saveKey": "হুমায়ুন"
+        },
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/kazi_nazrul_islam.json",
+            "color": "#b2dafd",
+            "bookType": "কাজী নজরুল ইসলাম",
+            "saveKey": "কাজী"
+        }
+    ]
+}

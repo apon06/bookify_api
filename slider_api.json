@@ -1,0 +1,37 @@
+[
+    {
+        "image": "https://i.postimg.cc/DyRnz1Ty/suvaslider.webp",
+        "audio_url": "https://www.youtube.com/watch?v=y0QA4tk_nPM",
+        "bookName": "সুভা",
+        "bookCreator": "রবীন্দ্রনাথ ঠাকুর",
+        "voice_owner": "DadarSchool"
+    },
+    {
+        "image": "https://i.postimg.cc/qMHdV4Xz/kabuliwala.webp",
+        "audio_url": "https://www.youtube.com/watch?v=6DQhVnsQsIs&t",
+        "bookName": "কাবুলিওয়ালা",
+        "bookCreator": "রবীন্দ্রনাথ ঠাকুর",
+        "voice_owner": "BengaliClassicsByArnab"
+    },
+    {
+        "image": "https://i.postimg.cc/66myd2XF/porinita.webp",
+        "audio_url": "https://www.youtube.com/watch?v=oFbpRPHtHO8",
+        "bookName": "পরিণীতা",
+        "bookCreator": "শরৎচন্দ্র চট্টোপাধ্যায়",
+        "voice_owner": "DadarSchool"
+    },
+    {
+        "image": "https://i.postimg.cc/hvdM1XCg/otithi.webp",
+        "audio_url": "https://www.youtube.com/watch?v=5oDBlpvgQ0c",
+        "bookName": "অতিথি",
+        "bookCreator": "রবীন্দ্রনাথ ঠাকুর",
+        "voice_owner": "BengaliClassicsByArnab"
+    },
+    {
+        "image": "https://i.postimg.cc/BZ7GhkMV/devdas.webp",
+        "audio_url": "https://www.youtube.com/watch?v=3NloyPTfkGw",
+        "bookName": "দেবদাস",
+        "bookCreator": "শরৎচন্দ্র চট্টোপাধ্যায়",
+        "voice_owner": "DadarSchool"
+    }
+]

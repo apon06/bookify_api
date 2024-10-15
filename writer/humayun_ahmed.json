@@ -1,0 +1,68 @@
+{
+    "bookType": "হুমায়ুন আহমেদ",
+    "audiobooks": [
+        {
+            "id": 1,
+            "bookName": "হিমু",
+            "bookImage": "https://i.postimg.cc/mrMbKJG7/himu.jpg",
+            "bookCreatorName": "হুমায়ুন আহমেদ",
+            "bookNameEn": "Himu",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "হিমু",
+                    "audio_url": "https://www.youtube.com/watch?v=HieSXV07tnw&t",
+                    "voice_owner": "MyAudioBook"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "bookName": "নন্দিত নরকে",
+            "bookImage": "https://i.postimg.cc/sDv1wn14/nondiko-noroke.jpg",
+            "bookCreatorName": "হুমায়ুন আহমেদ",
+            "bookNameEn": "nondito noroke",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "নন্দিত নরকে",
+                    "audio_url": "https://www.youtube.com/watch?v=xyE_IG51ABk&t",
+                    "voice_owner": "golpotoru"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "bookName": "আগুনের পরশমণি",
+            "bookImage": "https://i.postimg.cc/tCQCNXQp/aguner-poroshmoni.jpg",
+            "bookCreatorName": "হুমায়ুন আহমেদ",
+            "bookNameEn": "aguner poroshmoni",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "আগুনের পরশমণি ১",
+                    "audio_url": "https://www.youtube.com/watch?v=keKc9XdlMv8",
+                    "voice_owner": "kollol"
+                },
+                {
+                    "episode_id": 2,
+                    "bookName": "আগুনের পরশমণি ২",
+                    "audio_url": "https://www.youtube.com/watch?v=IhzAHpyzB5U&t",
+                    "voice_owner": "kollol"
+                },
+                {
+                    "episode_id": 3,
+                    "bookName": "আগুনের পরশমণি ৩",
+                    "audio_url": "https://youtu.be/dgFKBRaLXYg?si=HPunGUG90SAqm9Gh",
+                    "voice_owner": "kollol"
+                },
+                {
+                    "episode_id": 4,
+                    "bookName": "আগুনের পরশমণি ৪",
+                    "audio_url": "https://youtu.be/PKBCsdvArfo?si=s632oFUOtpnwUa8O",
+                    "voice_owner": "kollol"
+                }
+            ]
+        }
+    ]
+}
